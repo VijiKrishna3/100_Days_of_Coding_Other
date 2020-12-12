@@ -7,7 +7,7 @@ This is [my repository of solutions](http://github.com/dimitri-dev) for the chal
 
 All the solutions here presented are done in other languages, but not C#.
 
-If you want to see my solutions in C#, take a look at my other main repository: https://github.com/dimitri-dev/100_Days_of_Coding
+If you want to see my solutions in C#, take a look at my other main repository: [100 Days of Coding](https://github.com/dimitri-dev/100_Days_of_Coding)
 
 ## How can I participate
 100 Days of Coding is a personal challenge, and you can subscribe to the mail list [by clicking here.](http://eepurl.com/hfEaK5)
@@ -18,4 +18,4 @@ Don't worry if you cannot solve the tasks on a daily basis - do it at your own p
 Jamal Errakibi has also opened up a Discord server where users can share their solutions, get opinions on how to improve from others,
 and ask other solvers to explain their algorithms.
 
-Feel free to join (and also contribute): https://discord.gg/un4VUhG
+Feel free to join (and also contribute): [Discord server link](https://discord.gg/un4VUhG)
