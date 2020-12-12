@@ -22,7 +22,7 @@ int main()
     }
     
     sort(nums.begin(), nums.end());
-    foreach (auto elem : nums)
+    for(auto elem : nums)
         cout << elem << " ";
     return 0;
 }
