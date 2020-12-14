@@ -19,7 +19,7 @@ void mergeArrays(Interval* arr, int *n) {
     for (int i = 1; i < *n; ++i){
         if ((arr+x)->end >= (arr+i)->start){
             (arr+x)->start = min((arr+x)->start, (arr+i)->start);
-            (arr+x)->start = max((arr+x)->end, (arr+i)->end);
+            (arr+x)->end = max((arr+x)->end, (arr+i)->end);
         }
         else {
             ++x;
